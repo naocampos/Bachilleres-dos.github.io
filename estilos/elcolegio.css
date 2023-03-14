@@ -1,0 +1,32 @@
+#imagen{
+    float: right;
+    width: 16.%;
+    border: solid;
+    height: 240px;
+    
+}
+#titulos{
+    text-align: center;
+    font-style: oblique;
+    font-size: 30px;
+    color: blueviolet;
+    background: linear-gradient(to right, #6600CC ,#FF00FF  );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#tit{
+    width: 30%;
+    border: inset;
+    border-color: antiquewhite;
+    background-color: azure;
+}
+p{
+    display: flex;
+    background-color: azure;
+    font-style: italic;
+}
+#ima{
+    width: 22.5%;
+    border: outset;
+    height: 129px;
+}

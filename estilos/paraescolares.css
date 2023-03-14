@@ -1,0 +1,56 @@
+#titulo{
+    color: darkcyan;
+    font-family: fantasy;
+    font-size: 20px;
+    text-align: center;
+    background: linear-gradient(to right, #17A589 ,#283747);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border: inset;
+    border-color: aqua;
+}
+.columna{
+    margin: 10px;
+    float: left;
+    padding: 5px;
+}
+.fila::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.texto6{
+    color: darkblue;
+    font-style: italic;
+}
+.texto1{
+    color: darkblue;
+    font-style: italic;
+}
+.texto2{
+    color: darkblue;
+    font-style: italic;
+}
+.texto3{
+    color: darkblue;
+    font-style: italic;
+}
+.texto4{
+    color: darkblue;
+    font-style: italic;
+}
+.texto5{
+    color: darkblue;
+    font-style: italic;
+}
+.texto7{
+    color: darkblue;
+    font-style: italic;
+}
+.texto8{
+    color: darkblue;
+    font-style: italic;
+}
+
+
+

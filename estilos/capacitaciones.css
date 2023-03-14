@@ -1,0 +1,37 @@
+#titulo{
+    display: inline-block;
+    color: cadetblue;
+    font-family:sans-serif;
+    text-align: center;
+    text-decoration: none;
+    background: linear-gradient(to right, #0E6655, #5DADE2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: 70%;
+    font-size: 20px;
+}
+#subtitulo{
+    color: darkslategrey;
+    text-align: center;
+    font-size: 15px;
+}
+.container{
+    display: inline-block;
+   width: 48%;
+    text-align: left;
+}
+img{
+    max-width:  100%;
+}
+.ima{
+    float: right;
+    width: 48%;
+    text-align: center;
+    
+}
+.tx{
+    border: solid;
+    width: 55%;
+    background-color: beige;
+    font-size: 18px;
+}

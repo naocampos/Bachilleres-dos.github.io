@@ -1,0 +1,43 @@
+#logo1{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}
+#tit{
+    display: inline-block;
+    width: 55%;
+    text-align: center;
+    background: linear-gradient(to right, #1388C2, #29D8D5 );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#logo2{
+    display: inline-block;
+    width: 15%;
+    text-align: right;
+}
+.tits{
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin-left:300px;
+    padding: 8px;
+    border: ridge;
+    border-color: brown;
+    font-style: oblique;
+    background-color: beige;
+}
+p{
+    display: inline-block;
+    text-align: justify;
+}
+#contenedor {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#contenedor > div {
+  width: 48%;
+    padding: 10px;
+}

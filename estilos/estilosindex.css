@@ -1,0 +1,45 @@
+body{
+    background-image: linear-gradient(to bottom, #dcf3f9, #cbebfb, #c1e0fe, #c1d4ff, #cac5fa, #c8c1fa, #c5befb, #c3bafb, #a9c3ff, #8dcbff, #73d3ff, #5fd9fb);
+}
+#logo1{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+    background: linear-gradient(to right, #ff0099, #493240);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#logo2{
+    display: inline-block;
+    width: 12%;
+    text-align: right;
+}
+#barra{
+    clear: both;
+}
+.menú{
+    display: inline-block;
+    width: 15%;
+    background-color: cornflowerblue;
+    font-size: 20px;
+    text-align: center;
+    border: inset;
+    border-color: blueviolet;
+}
+#marco{
+    width: 100%;
+    padding: 8px;
+    height: 400px;
+    border-color: blueviolet;
+}
+#pie{
+    text-align: center;
+    font-size: 20px;
+    border: outset;
+    border-color: darkorchid
+}
